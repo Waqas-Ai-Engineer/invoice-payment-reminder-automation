@@ -1,0 +1,18 @@
+# invoice-payment-reminder-automation
+
+> Free, self-hosted Python tool that turns an invoice CSV into a daily overdue-payment reminder plan (friendly/firm/final tiers, cooldowns, aging report). Plans only; never sends.
+
+## Key files
+- iprm.py: entry point (python iprm.py demo)
+- iprm_core.py: planning, tiers, aging, message rendering
+- iprm_cli.py: argparse CLI (demo, plan, aging)
+- example_invoices.csv / example_config.json: sample inputs (fictional data)
+- test_iprm.py: unit tests (python -m unittest)
+- COMPLIANCE.md: notes on payment-reminder etiquette and law
+- GITHUB_METADATA.md: description and topics
+
+## Quickstart
+python iprm.py demo --messages
+
+## License
+MIT

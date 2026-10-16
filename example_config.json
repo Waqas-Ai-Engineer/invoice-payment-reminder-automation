@@ -1,0 +1,8 @@
+{
+  "business_name": "Acme Services (sample)",
+  "pay_link": "https://example.com/pay",
+  "pre_due_days": 3,
+  "cooldown_days": 5,
+  "max_reminders": 4,
+  "high_value_threshold": 5000
+}

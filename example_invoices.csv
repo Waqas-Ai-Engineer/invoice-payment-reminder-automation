@@ -1,0 +1,11 @@
+invoice_id,customer,email,phone,amount,currency,issue_date,due_date,status,last_reminder,reminders_sent
+INV-1001,Sample Dental Clinic,billing@sample-dental.test,,1200.00,USD,2026-09-01,2026-09-30,open,,0
+INV-1002,Demo Roofing Co,,+15550100002,3400.50,USD,2026-08-20,2026-09-19,open,2026-10-01,1
+INV-1003,Example Salon,hello@example-salon.test,,450.00,USD,2026-10-01,2026-10-19,open,,0
+INV-1004,Sample Realty Group,ap@sample-realty.test,,8900.00,USD,2026-08-01,2026-08-31,open,2026-09-20,3
+INV-1005,Test HVAC Services,office@test-hvac.test,,760.00,USD,2026-09-15,2026-10-10,open,2026-10-14,1
+INV-1006,Demo Law Office,pay@demo-law.test,,2100.00,USD,2026-07-15,2026-08-14,open,2026-09-30,2
+INV-1007,Example Bakery,,,300.00,USD,2026-09-25,2026-10-05,open,,0
+INV-1008,Sample Gym,fit@sample-gym.test,,95.00,USD,2026-09-01,2026-09-30,paid,,0
+INV-1009,Demo Studio,studio@demo-studio.test,,640.00,USD,2026-09-10,2026-10-01,disputed,2026-10-05,1
+INV-1010,Sample Auto Repair,shop@sample-auto.test,,1850.00,USD,2026-10-05,2026-10-12,open,,0
